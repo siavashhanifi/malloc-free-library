@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<unistd.h>
 #include<time.h>
-#include"../dlmall.h"
+#include"dlmall.h"
 
 #define BYTES 16
 #define BLOCKS 1000
